@@ -1,8 +1,12 @@
 {
   "main.css": "static/css/main.dfcbe6fa.css",
   "main.css.map": "static/css/main.dfcbe6fa.css.map",
-  "main.js": "static/js/main.f4743031.js",
-  "main.js.map": "static/js/main.f4743031.js.map",
+  "main.js": "static/js/main.354a044d.js",
+  "main.js.map": "static/js/main.354a044d.js.map",
+  "static/media/engage.png": "static/media/engage.97bbafde.png",
+  "static/media/eth3d.png": "static/media/eth3d.88226ec5.png",
+  "static/media/social-terrain-remote-logo.png": "static/media/social-terrain-remote-logo.3f1cc196.png",
+  "static/media/social-terrain.png": "static/media/social-terrain.d7557fdc.png",
   "static/media/team-joel-fun.jpg": "static/media/team-joel-fun.f38b6509.jpg",
   "static/media/team-joel.jpg": "static/media/team-joel.eb4a25bf.jpg"
 }
