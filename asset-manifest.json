@@ -1,12 +1,15 @@
 {
-  "main.css": "static/css/main.dfcbe6fa.css",
-  "main.css.map": "static/css/main.dfcbe6fa.css.map",
-  "main.js": "static/js/main.54d711c7.js",
-  "main.js.map": "static/js/main.54d711c7.js.map",
-  "static/media/engage.png": "static/media/engage.97bbafde.png",
-  "static/media/eth3d.png": "static/media/eth3d.88226ec5.png",
-  "static/media/social-terrain-remote-logo.png": "static/media/social-terrain-remote-logo.3f1cc196.png",
-  "static/media/social-terrain.png": "static/media/social-terrain.d7557fdc.png",
-  "static/media/team-joel-fun.jpg": "static/media/team-joel-fun.f38b6509.jpg",
-  "static/media/team-joel.jpg": "static/media/team-joel.eb4a25bf.jpg"
+  "files": {
+    "main.css": "/static/css/main.a40ab3f6.css",
+    "main.js": "/static/js/main.472424d9.js",
+    "static/js/787.453391a7.chunk.js": "/static/js/787.453391a7.chunk.js",
+    "index.html": "/index.html",
+    "main.a40ab3f6.css.map": "/static/css/main.a40ab3f6.css.map",
+    "main.472424d9.js.map": "/static/js/main.472424d9.js.map",
+    "787.453391a7.chunk.js.map": "/static/js/787.453391a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a40ab3f6.css",
+    "static/js/main.472424d9.js"
+  ]
 }
